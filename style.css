@@ -1,0 +1,21 @@
+#number-guess, #result, #history {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+
+#history {
+    margin-top: 16px;
+}
+.text-center{
+    background-color: lavender;
+}
+  
+.navnavbar-brand{
+    color: yellow;
+}
+.banner {
+    color: #FFD23F;
+    font-size: 90px;
+    font-family: sans-serif;
+}
